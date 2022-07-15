@@ -1,0 +1,2 @@
+FLASK_APP=info_farm.py
+FLASK_RUN_PORT=4000
